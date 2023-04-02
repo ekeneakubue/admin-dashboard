@@ -10,7 +10,7 @@ function App() {
       <Topbar/>
       <div className="container">
         <Sidebar/> 
-        <div className="others">
+        <div className="other-pages">
           <Home />  
         </div>  
       </div> 

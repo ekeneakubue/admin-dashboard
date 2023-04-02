@@ -4,7 +4,8 @@
 
 .container{
     display: flex;
+    margin-top: 10px;
 }
-.others{
+.other-pages{
     flex: 4;    
 }
