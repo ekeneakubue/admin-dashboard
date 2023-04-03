@@ -24,6 +24,7 @@ export default function WidgetLg() {
             <td className="widgetLgDate">2 June 2023</td>
             <td className="widgetLgAmount">N 20,000</td>
             <td className="widgetLgStatus"> 
+            <Button type="Approved"/>
             </td>
           </tr>
           <tr className="widgetLgTr">
