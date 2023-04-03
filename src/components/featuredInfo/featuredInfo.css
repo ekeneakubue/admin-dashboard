@@ -11,3 +11,32 @@
     cursor: pointer;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
+.featuredTitle{
+    font-style: 20px;
+}
+.featuredMoneyContainer{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+.featuredMoney{
+    font-size: 30px;
+    font-weight: 600;
+}
+.featuredMoneyRate{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.featuredIcon{
+    font-size: 14px;
+    margin-left: 5px;
+    color: green;
+}
+.featuredIcon.negative{
+    color: red;
+}
+.featuredSub{
+    font-size: 15px;
+    color: gray;
+}
