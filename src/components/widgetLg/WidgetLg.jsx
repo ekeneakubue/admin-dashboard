@@ -8,7 +8,7 @@ export default function WidgetLg() {
  
   return (
     <div className='widgetLg'>
-        <h3 className="widgetLgTitle">Latest Transactions</h3>
+        <span className="widgetLgTitle">Latest Transactions</span>
         <table className="widgetLgTable">
           <tr className="widgetLgTr">
             <th className="widgetLgTh">Customer</th>

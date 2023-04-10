@@ -6,7 +6,7 @@ export default function Topbar() {
     <div className='topbar'>
         <div className='topbarWrapper'>
           <div className='topLeft'>
-            <span className='logo'><AccountBalance /> CodeCity Admin</span>
+            <span className='logo'><AccountBalance /> Admin Dashboard</span>
           </div>
           <div className='topRight'>
             <div className='topbarIcons'>
